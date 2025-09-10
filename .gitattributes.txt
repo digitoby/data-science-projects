@@ -1,0 +1,12 @@
+# Auto-detect text files and handle line endings
+* text=auto
+
+# Force Unix-style line endings (LF) for all text files
+*.py text eol=lf
+*.ipynb text eol=lf
+*.md text eol=lf
+*.csv text eol=lf
+*.txt text eol=lf
+
+# Windows batch scripts should keep CRLF
+*.bat text eol=crlf
