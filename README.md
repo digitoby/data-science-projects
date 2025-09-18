@@ -16,3 +16,10 @@ These projects are inspired by my data science course. Using the provided datase
       - Scaling data with sklearn
       - Plotting clustered data
       - Implementing the Elbow Method to find the optimal # of clusters
+- [Project 4: MNIST Classification](MNIST_Classification)
+  - In this project, I built a feed-forward neural network to classify handwritten digits from the MNIST dataset. I practiced:
+      - Loading and preprocessing datasets with tensorflow_datasets
+      - Scaling image pixel values and batching data for training
+      - Designing a neural network with different activation functions
+      - Compiling the model with Adam optimizer and sparse categorical cross-entropy loss
+      - Training the model and evaluating its accuracy on validation and test sets
