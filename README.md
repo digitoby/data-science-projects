@@ -1,5 +1,5 @@
-# data-science-projects
-Repository for all of my data science/machine learning projects!
+# python-projects
+Repository for all of my data science / machine learning / data analytics python projects!
 
 These projects are inspired by my data science course. Using the provided datasets from the course, I turned them into my own explorations and projects to see what I could do.
 - [Project 1: Linear Regression](Linear_Regression)
@@ -17,7 +17,7 @@ These projects are inspired by my data science course. Using the provided datase
       - Plotting clustered data
       - Implementing the Elbow Method to find the optimal # of clusters
 - [Project 4: MNIST Classification](MNIST_Classification)
-  - In this project, I built a feed-forward neural network to classify handwritten digits from the MNIST dataset. I practiced:
+  - In this project, I built a deep learning neural network to classify handwritten digits from the MNIST dataset. I practiced:
       - Loading and preprocessing datasets with tensorflow_datasets
       - Scaling image pixel values and batching data for training
       - Designing a neural network with different activation functions
